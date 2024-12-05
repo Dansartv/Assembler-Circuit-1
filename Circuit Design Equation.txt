@@ -1,0 +1,10 @@
+AB̅ + AB + BC(A + C)
+
+---------Absorption Law A + AB̅ = A
+
+A + BC(A + C)
+
+---------Distributive Law: A + AB = A(1 + B) = A
+
+A + BC(A + C) = A + BC
+
